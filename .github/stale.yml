@@ -1,0 +1,11 @@
+daysUntilStale: 7
+daysUntilClose: 7
+exemptLabels:
+  - pinned
+  - security
+staleLabel: wontfix
+markComment: >
+  This issue has been automatically marked as stale because it has not had
+  any recent activity. It will be closed in seven (7) days if no further
+  activity occurs. Thanks for your contributions.
+closeComment: false

@@ -1,0 +1,4 @@
+Gemfile linguist-vendored=true
+Gemfile.lock linguist-vendored=true
+Podfile linguist-vendored=true
+Podfile.lock linguist-vendored=true

@@ -1,0 +1,6 @@
+CertificateSigningRequest.certSigningRequest
+aps_development.cer
+.idea
+.DS_Store
+Pods/
+
